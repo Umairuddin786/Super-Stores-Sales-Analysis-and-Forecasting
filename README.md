@@ -1,2 +1,2 @@
-# Super-Stores-Sales-Analysis-and-Forecasting
+# Superstore Sales Dashboard
 Power Bi
